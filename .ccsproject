@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVariant value="50:Theia-based"/>
+	<ccsVersion value="70.1.0"/>
+	<deviceFamily value="MSP430"/>
+	<executableActions value=""/>
+	<createSlaveProjects value=""/>
+	<templateProperties value="id=Empty_Project__No_Driverlib_Grlib_Example.projectspec.aman"/>
+	<connection value="common/targetdb/connections/TIMSP430-USB.xml"/>
+	<activeTargetConfiguration value="targetConfigs/MSP430G2553.ccxml"/>
+	<origin value="C:\ti\msp430ware_3_80_14_01\grlib\examples\Empty_Project__No_Driverlib_Grlib_Example\CCS\Empty_Project__No_Driverlib_Grlib_Example.projectspec"/>
+	<filesToOpen value=""/>
+</projectOptions>
